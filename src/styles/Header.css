@@ -1,0 +1,11 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  height: 24px;
+  margin-left: 15px;
+  margin-right: 18px;
+}
+.shop-cart {
+  padding-right: 5px;
+}
