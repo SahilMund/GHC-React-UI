@@ -5,7 +5,7 @@ To run the blog creation page locally, follow these steps:
 1. Clone this repository to your local machine (or) download the source code as a ZIP file.
 
 ```
-git clone https://github.com/SahilMund/=
+git clone https://github.com/SahilMund/GHC-React-UI.git
 ```
 
 2. Open the project in your preferred code editor.
