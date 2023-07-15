@@ -1,6 +1,6 @@
 ## Getting Started :-
 
-To run the blog creation page locally, follow these steps:
+To run the application locally, follow these steps:
 
 1. Clone this repository to your local machine (or) download the source code as a ZIP file.
 
